@@ -3,7 +3,6 @@ import Hrdina
 import random
 from NPC import vypis_inventare
 
-
 def __init__souboj(nepritel, hrdina):
         zivoty_hrdina = hrdina.zivoty
         zivoty_nepritel = nepritel.zivoty    
