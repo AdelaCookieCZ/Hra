@@ -64,7 +64,7 @@ for radek in mapa:
         column += 1
     row += 1
 
-print(array_object)
+# print(array_object)
 
 for each in array_object:
-    print(each.__class__)
+    print(each.__class__.__name__)
